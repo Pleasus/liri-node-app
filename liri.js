@@ -96,6 +96,9 @@ function callSpotify() {
 	// define a variable that retrieves Spotify access keys from the keys.js file
     var spotify = new Spotify(keys.spotifyKeys);
 
+    if (!inputTwo) {
+    	inputTwo = "Brown Eyed Girl";
+	}
     // begin Spotify track search using the user input
     spotify.search({ type: 'track', query: `${inputTwo}`, limit: '1' }, function(err, data) {
         
@@ -139,12 +142,18 @@ function callOMDB() {
 	// request variable is defined and requires the request module
     var request = require('request');
 
+    if (!inputTwo) {
+    	inputTwo = "iron+monkey";
+	}
     // use request and the user's second input to begin the OMDB query
+    
+
     request(`http://www.omdbapi.com/?t=${inputTwo}&tomatoes=true&${keys.movieKey}`, function(error, response, body) {
-
+   
     	// display error, if error
-        console.log('error:', error);
-
+    	if (error) {
+    		console.log('error:', error);
+    	}
         // display status code
         console.log('statusCode:', response && response.statusCode);
 

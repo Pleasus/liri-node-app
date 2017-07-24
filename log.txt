@@ -1,0 +1,16 @@
+Nothin' much. Just sittin' and chillin'.{"title":"Up","year":"2009","rating":"8.3/10","country":"USA","language":"English","plot":"Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.","actors":"Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson","rottenTom":"98%"}Lots of coding and brooding about not coding properly. Jeezus!,Nothin' much. Just sittin' and chillin'.{
+    "artists": "Backstreet Boys",
+    "songName": "I Want It That Way",
+    "spotifyLink": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r",
+    "album": "The Hits--Chapter One"
+}{
+    "artists": "Adairs Run",
+    "songName": "Undefined",
+    "spotifyLink": "https://open.spotify.com/album/4dwk6lHcCEYsuxCvJ1hsU0",
+    "album": "Undefined"
+}{"title":"Iron Man","year":"2008","rating":"7.9/10","country":"USA","language":"English, Persian, Urdu, Arabic, Hungarian","plot":"After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.","actors":"Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow","rottenTom":"94%"}{"title":"The Iron Giant","year":"1999","rating":"8.0/10","country":"USA","language":"English","plot":"A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.","actors":"Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon","rottenTom":"96%"}{"title":"Up","year":"2009","rating":"8.3/10","country":"USA","language":"English","plot":"Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.","actors":"Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson","rottenTom":"98%"}{
+    "artists": "Queen",
+    "songName": "Under Pressure",
+    "spotifyLink": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf",
+    "album": "Hot Space (Deluxe Remastered Version)"
+}Lots of coding and brooding about not coding properly. Jeezus!,Nothin' much. Just sittin' and chillin'.Lots of coding and brooding about not coding properly. Jeezus!,Nothin' much. Just sittin' and chillin'.Lots of coding and brooding about not coding properly. Jeezus!,Nothin' much. Just sittin' and chillin'.Lots of coding and brooding about not coding properly. Jeezus!,Nothin' much. Just sittin' and chillin'.Lots of coding and brooding about not coding properly. Jeezus!,Nothin' much. Just sittin' and chillin'.
